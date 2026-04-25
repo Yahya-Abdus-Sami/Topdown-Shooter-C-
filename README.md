@@ -2,7 +2,7 @@ Top-Down Shooter (C++ / raylib)
 
 A simple top-down shooter using C++ and raylib. This project focuses on applying object-oriented programming concepts while creating a functional 2D game.
 
-![Gameplay](gif/gameplaygif.gif)
+![Gameplay](gameplaygif.gif)
 
 Features
 
